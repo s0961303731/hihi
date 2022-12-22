@@ -1,3 +1,6 @@
+print("更改者 B0943049")
 a = int(input())
 b = int(input())
 print(a+b)
+print(a*b)
+print(a-b)
